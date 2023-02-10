@@ -1,0 +1,44 @@
+[
+{
+  "Nombre": "Franco",
+  "Apellido": "Caceres",
+  "Tipo": "Admin",
+  "Estado": "Activo"  
+},
+
+{
+  "Nombre": "Nicolas",
+  "Apellido": "Caceres",
+  "Tipo": "Usuario",
+  "Estado": "Activo"  
+},
+
+{
+  "Nombre": "Ana",
+  "Apellido": "Daghero",
+  "Tipo": "Usuario",
+  "Estado": "Inactivo"  
+},
+
+{
+  "Nombre": "Laura",
+  "Apellido": "Sanchez",
+  "Tipo": "Usuario",
+  "Estado": "Activo"  
+},
+
+{
+  "Nombre": "Maria",
+  "Apellido": "Paz",
+  "Tipo": "Usuario",
+  "Estado": "Activo"  
+},
+
+{
+  "Nombre": "Jose",
+  "Apellido": "Barrionuevo",
+  "Tipo": "Usuario",
+  "Estado": "Inactivo"  
+}
+
+]
